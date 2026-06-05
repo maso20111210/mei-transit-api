@@ -1,0 +1,4 @@
+flask==3.0.3
+pyswisseph==2.10.3.2
+pytz==2024.1
+gunicorn==22.0.0
